@@ -1,0 +1,7 @@
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\lista5\exercicio4_lista5\exercicio4_lista5\bin\Debug\exercicio4_lista5.exe.config
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\lista5\exercicio4_lista5\exercicio4_lista5\bin\Debug\exercicio4_lista5.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\lista5\exercicio4_lista5\exercicio4_lista5\bin\Debug\exercicio4_lista5.pdb
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\lista5\exercicio4_lista5\exercicio4_lista5\obj\Debug\exercicio4_lista5.csprojAssemblyReference.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\lista5\exercicio4_lista5\exercicio4_lista5\obj\Debug\exercicio4_lista5.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\lista5\exercicio4_lista5\exercicio4_lista5\obj\Debug\exercicio4_lista5.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\lista5\exercicio4_lista5\exercicio4_lista5\obj\Debug\exercicio4_lista5.pdb

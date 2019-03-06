@@ -1,0 +1,14 @@
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\lista5\exercicio2_lista5\exercicio2_lista5\bin\Debug\exercicio2_lista5.exe.config
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\lista5\exercicio2_lista5\exercicio2_lista5\bin\Debug\exercicio2_lista5.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\lista5\exercicio2_lista5\exercicio2_lista5\bin\Debug\exercicio2_lista5.pdb
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\lista5\exercicio2_lista5\exercicio2_lista5\obj\Debug\exercicio2_lista5.csprojAssemblyReference.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\lista5\exercicio2_lista5\exercicio2_lista5\obj\Debug\exercicio2_lista5.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\lista5\exercicio2_lista5\exercicio2_lista5\obj\Debug\exercicio2_lista5.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\lista5\exercicio2_lista5\exercicio2_lista5\obj\Debug\exercicio2_lista5.pdb
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro 5 - Vetor\exercicio2_lista5\exercicio2_lista5\bin\Debug\exercicio2_lista5.exe.config
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro 5 - Vetor\exercicio2_lista5\exercicio2_lista5\bin\Debug\exercicio2_lista5.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro 5 - Vetor\exercicio2_lista5\exercicio2_lista5\bin\Debug\exercicio2_lista5.pdb
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro 5 - Vetor\exercicio2_lista5\exercicio2_lista5\obj\Debug\exercicio2_lista5.csprojAssemblyReference.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro 5 - Vetor\exercicio2_lista5\exercicio2_lista5\obj\Debug\exercicio2_lista5.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro 5 - Vetor\exercicio2_lista5\exercicio2_lista5\obj\Debug\exercicio2_lista5.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro 5 - Vetor\exercicio2_lista5\exercicio2_lista5\obj\Debug\exercicio2_lista5.pdb
